@@ -1,16 +1,14 @@
-## Hi there 👋
+### Seja Bem-vindo ao meu perfil! 🤯 👋
 
-<!--
-**yagocorreiasouza/yagocorreiasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou o aluno **Yago** da Escola Isac de Dracena.
+- Tenho aulas de Tecnologia com o Profº **JOCIMAR** e estamos desenvovendo projetos através do [Scratch](https://scratch.mit.edu/) e [JavaScript](https://editor.p5js.org/).
+- Usarei este espaço para divulgar alguns de meus projetos.
 
-Here are some ideas to get you started:
+ ### Podem entrar em contato comigo através do 📧
+  
+  00001113868107sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://media.tenor.com/_pgMQb9Z8B0AAAAM/whats-up-buttercup-the-mandalorian.gif)
+
+
+
